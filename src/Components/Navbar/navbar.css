@@ -1,0 +1,14 @@
+.navbar-brand img {
+    width: 160px;
+    height: auto;
+}
+
+#Light {
+    color: #ff0000;
+    background-color: #fff;
+}
+
+#Dark {
+    background-color: #000;
+    color: #fff;
+}

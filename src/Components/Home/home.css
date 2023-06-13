@@ -1,0 +1,16 @@
+.carousel-item {
+    height: 500px;
+    width: 100%;
+}
+
+.row .content {
+    text-align: justify;
+}
+
+.newsletter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+    height: 160px;
+}
